@@ -18,7 +18,7 @@ The blank graphic assets in their final, ready to upload form are available in t
 You can edit the source PSD files in the psd folder with Adobe Photoshop or a compatible image editing software as the basis for designing your graphic assets.
 
 # Team
-Joseph Lam
+Joseph Lam (me@lamjoseph.com)
 
 # License
 Creative Commons Zero v1.0 Universal - https://creativecommons.org/publicdomain/zero/1.0/
